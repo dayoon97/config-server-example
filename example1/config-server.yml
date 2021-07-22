@@ -1,0 +1,9 @@
+spring.profiles: dev
+who:
+  am:
+    i: dev-dayoon
+---
+spring.profiles: live
+who:
+  am:
+    i: live-dayoon
