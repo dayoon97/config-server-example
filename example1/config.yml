@@ -1,7 +1,7 @@
 spring.profiles: dev
 who:
   am:
-    i: dev-dayoon
+    i: update!!!!! dev-dayoon
 ---
 spring.profiles: live
 who:
